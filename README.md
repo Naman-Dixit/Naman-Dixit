@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Naman.125539@stu.upes.ac.in**
 
-- ⚡ Fun fact **CS major with a coffee addiction, loves to watch movies and enjoys theatre arts.**
+- ⚡ Fun fact - **CS major with a coffee addiction, loves to watch movies and enjoys theatre arts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
