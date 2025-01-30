@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-dixit&show_icons=true&locale=en" alt="naman-dixit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-dixit&" alt="naman-dixit" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/05104aff78c32c34f04aef116dc72a96c669f1d71a90fa64783e4be5cbc34dac/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e616d616e2d646978697426" alt="naman-dixit" /></p>
