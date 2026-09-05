@@ -87,4 +87,4 @@ I'm continuously working on improving my fundamentals, building practical projec
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
 
-<b align="center"> If you find something interesting here, feel free to explore my repositories! </b>
+<b align="center"> **If you find something interesting here, feel free to explore my repositories!** </b>
