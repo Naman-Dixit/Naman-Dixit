@@ -1,28 +1,92 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<h1 align="center">Hi 👋,I am Naman Dixit</h1>
-<h3 align="center">A Data Science, Cyber Security and AI/ML enthusiast.</h3>
-<img align="right" width="400" alt="CODING" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-dixit&label=Profile%20views&color=0e75b6&style=flat" alt="naman-dixit" /> </p>
-
-- 📫 How to reach me **Naman.125539@stu.upes.ac.in**
-
-- ⚡ Fun fact - **CS major with a coffee addiction, loves to watch movies and enjoys theatre arts.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naman dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman dixit" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/naman dixit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naman dixit" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/naman dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naman dixit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naman dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naman dixit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=160&section=header&text=Naman%20Dixit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Data+Science+%26+Cyber+Security;Building+with+Java+%26+Python;Learning+DSA+%26+Generative+AI"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-dixit&show_icons=true&locale=en&layout=compact" alt="naman-dixit" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-dixit&show_icons=true&locale=en" alt="naman-dixit" /></p>
+## About Me
 
-<p><img align="center" src="https://camo.githubusercontent.com/05104aff78c32c34f04aef116dc72a96c669f1d71a90fa64783e4be5cbc34dac/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e616d616e2d646978697426" alt="naman-dixit" /></p>
+I am a Computer Science student at UPES, Dehradun, interested in **AI/ML, Data Science, Cyber Security, Generative AI and Software Development**. Currently focused on strengthening my programming fundamentals, DSA and practical development skills.
+
+**CS major with a coffee addiction, loves to watch movies and enjoys theatre arts.**
+
+* Contact: **[Naman.125539@stu.upes.ac.in](mailto:Naman.125539@stu.upes.ac.in)**
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Naman.125539@stu.upes.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Naman-Dixit">
+    <img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+## Languages and Tools
+
+### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI / ML / Data Science
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### Development and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%"/>
+</p>
+
+GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Naman-Dixit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Dixit&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Naman-Dixit&theme=tokyonight&hide_border=true"/> </p>
+
+My Goal
+
+Keep learning. Keep building. Keep solving problems.
+
+I'm continuously working on improving my fundamentals, building practical projects, and becoming a stronger software engineer.
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
+
+<p align="center"> If you find something interesting here, feel free to explore my repositories! </p>
