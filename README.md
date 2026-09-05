@@ -77,8 +77,6 @@ I am a Computer Science student at UPES, Dehradun, interested in **AI/ML, Data S
 
 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Naman-Dixit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-Dixit&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Naman-Dixit&theme=tokyonight&hide_border=true"/> </p>
 
 My Goal
