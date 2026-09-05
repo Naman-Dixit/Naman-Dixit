@@ -75,11 +75,11 @@ I am a Computer Science student at UPES, Dehradun, interested in **AI/ML, Data S
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%"/>
 </p>
 
-GitHub Stats
+## GitHub Stats
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Naman-Dixit&theme=tokyonight&hide_border=true"/> </p>
 
-My Goal
+## My Goal
 
 Keep learning. Keep building. Keep solving problems.
 
@@ -87,4 +87,4 @@ I'm continuously working on improving my fundamentals, building practical projec
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
 
-<p align="center"> If you find something interesting here, feel free to explore my repositories! </p>
+<b align="center"> If you find something interesting here, feel free to explore my repositories! </b>
